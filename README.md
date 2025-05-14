@@ -1,1 +1,1 @@
-A visual demo of a few vector operations.
+A interactable demo of a few vector operations.
